@@ -1,0 +1,6 @@
+method,alpha,final_loss,final_acc,source_file
+FedAvg,0.1,1.3911238885988857,48.52,fedavg_alpha_0.1.csv
+FedAvg,0.5,1.0852639826999348,61.28,fedavg_alpha_0.5.csv
+FedAvg,1.0,0.9655541466299896,65.98,fedavg_alpha_1.0.csv
+Clustered FedAvg,custom,1.4830261142390548,45.78,clustered_fedavg/clustered_fedavg_log.csv
+Personalized Clustered FL,custom,1.9083576657416632,35.659511692380754,cluster_personalized/personalized_client_results.csv
